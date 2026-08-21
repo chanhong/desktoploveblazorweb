@@ -14,6 +14,15 @@ Find a solution to mix the best part of .net for desktop application
 4. Follow upstream of [photino.NET](https://github.com/tryphotino/photino.NET)
 5. Focus on Latest Blazor&Dotnet version
 
+## Quick start with dotnet new
+
+To quickly start a new project from this template:
+
+dotnet new install ./BlazorBrowserNativeStyle
+dotnet new bbs -n MyBlazorDesktopApp
+cd MyBlazorDesktopApp
+dotnet run
+
 # Background
 
 My teams are all C# boys, we want to use web technology and migration some old style internal desktop application which develop by MFC/WINFORM/WPF, we can not simple use webassembly and PWA, as these software is really desktop style, and pack and run on customer computer, we can not deliver it by webserver/CDN and so on.

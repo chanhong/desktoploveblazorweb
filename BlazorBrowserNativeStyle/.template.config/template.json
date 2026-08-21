@@ -1,0 +1,15 @@
+{
+  "author": "BlazorBrowserNativeStyle contributors",
+  "classifications": [
+    "Blazor",
+    "Desktop",
+    "Photino.NET"
+  ],
+  "identity": "BlazorBrowserNativeStyle",
+  "name": "BlazorBrowserNativeStyle",
+  "shortName": "bbs",
+  "sourceName": "BlazorBrowserNativeStyle",
+  "tags": {
+    "type": "project"
+  }
+}
